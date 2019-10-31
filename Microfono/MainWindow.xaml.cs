@@ -28,6 +28,7 @@ namespace Microfono
 
 
 
+
         public MainWindow()
         {
             InitializeComponent();
